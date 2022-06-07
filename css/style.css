@@ -1,0 +1,23 @@
+.display-1{
+    text-align: center;
+    font-weight: 700;
+    text-decoration: underline;
+    text-decoration-skip-ink: none;
+    text-decoration-color: black;
+    color: darkblue;
+}
+.display-2{
+    text-align: center;
+}
+.blockquote{
+    text-align: center;
+}
+.blockquote-footer{
+    text-align: center;
+}
+.btns{
+    text-align: center;
+}
+.shadow{
+    margin: 30px;
+}
